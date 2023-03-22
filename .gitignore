@@ -1,3 +1,4 @@
 *.txt
 *.net
-
+!mohit.txt
+!one.net
